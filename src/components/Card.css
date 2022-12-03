@@ -1,0 +1,8 @@
+.card{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.card img{
+    height: 250px;
+}
